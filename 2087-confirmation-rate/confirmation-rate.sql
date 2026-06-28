@@ -1,3 +1,4 @@
+/* Write your T-SQL query statement below */
 SELECT
     s.user_id,
     ROUND(
